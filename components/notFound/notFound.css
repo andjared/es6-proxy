@@ -1,0 +1,10 @@
+.not-found {
+  margin-top: var(--space-xxxl2);
+  padding: var(--space-xxxl) var(--space-md);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: var(--space-md);
+  padding: var(--space-xxl2) var(--space-xxxl);
+}

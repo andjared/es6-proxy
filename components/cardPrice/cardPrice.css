@@ -1,0 +1,25 @@
+.card-price {
+  grid-column: 1 / -1;
+  display: flex;
+  align-items: center;
+  margin-top: var(--space-sm);
+  gap: var(--space-xs);
+  overflow: visible;
+  overflow: clip;
+  text-overflow: ellipsis;
+}
+
+.btn-price {
+  border: 0;
+  background-color: transparent;
+  text-decoration: underline;
+  color: var(--clr-primary);
+}
+
+.price-night {
+  color: var(--clr-accent);
+}
+
+.price-night .price-value {
+  font-weight: 600;
+}

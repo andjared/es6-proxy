@@ -1,0 +1,47 @@
+*,
+::before,
+::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  --clr-primary: #717171;
+  --clr-accent: #222222;
+  --clr-bg-light: #ffffff;
+  --clr-search-btn: #ff385c;
+  --space-unit: 4px;
+  --space-xxs: calc(0.5 * var(--space-unit));
+  --space-xs: calc(1 * var(--space-unit));
+  --space-sm: calc(1.5 * var(--space-unit));
+  --space-sm2: calc(2 * var(--space-unit));
+  --space-md: calc(3 * var(--space-unit));
+  --space-md2: calc(4 * var(--space-unit));
+  --space-lg: calc(5 * var(--space-unit));
+  --space-xl: calc(6 * var(--space-unit));
+  --space-xl2: calc(7 * var(--space-unit));
+  --space-xxl: calc(8 * var(--space-unit));
+  --space-xxl2: calc(9 * var(--space-unit));
+  --space-xxxl: calc(10 * var(--space-unit));
+  --space-xxxl2: calc(2 * var(--space-xxxl));
+}
+
+body {
+  font-family: "Montserrat", sans-serif;
+  font-size: 15px;
+  line-height: 19px;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+}
+
+button {
+  outline: 0;
+  cursor: pointer;
+}

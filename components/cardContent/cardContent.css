@@ -1,0 +1,7 @@
+.card-content {
+  display: grid;
+  grid-template-columns: 5fr 1fr;
+  grid-template-rows: 0fr;
+  gap: var(--space-xxs) var(--space-sm2);
+  white-space: nowrap;
+}

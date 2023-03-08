@@ -1,0 +1,220 @@
+ [
+  {
+    "title": "Apartment in Paracin",
+    "review": "4.8 (30)",
+    "description": "Studio apartment br2",
+    "beds": "1 queen bed",
+    "dates": "1-6 Feb",
+    "priceNight": "$29\u00A0",
+    "priceTotal": "$136\u00A0",
+    "imgUrl": "images/image-1.jpg",
+    "isSuperhost": false
+  },
+    {
+    "title": "Flat in Paracin",
+    "review": "4.8 (30)",
+    "description": "Studio apartment br3",
+    "beds": "2 queen bed",
+    "dates": "1-6 Feb",
+    "priceNight": "$49\u00A0",
+    "priceTotal": "$256\u00A0",
+    "imgUrl": "images/image-2.jpg",
+    "isSuperhost": true
+  },
+    {
+    "title": "Apartment in Despotovac",
+    "review": "5.0 (34)",
+    "description": "Eco farm Milanovic - study 1/3",
+    "beds": "2 queen bed",
+    "dates": "1-6 Feb",
+    "priceNight": "$56\u00A0",
+    "priceTotal": "$456\u00A0",
+    "imgUrl": "images/image-3.jpg",
+    "isSuperhost": false
+  },
+    {
+    "title": "Villa in Paracin",
+    "review": "4.8 (30)",
+    "description": "Suite Duric",
+    "beds": "2 queen bed",
+    "dates": "1-6 Feb",
+    "priceNight": "$49\u00A0",
+    "priceTotal": "$256\u00A0",
+    "imgUrl": "images/image-4.jpg",
+    "isSuperhost": true
+  },
+    {
+    "title": "Cabin in Jagodina",
+    "review": "4.8 (30)",
+    "description": "Holiday Home Di More",
+    "beds": "6 beds",
+    "dates": "1-6 Feb",
+    "priceNight": "$49\u00A0",
+    "priceTotal": "$256\u00A0",
+    "imgUrl": "images/image-5.jpg",
+    "isSuperhost": true
+  },
+    {
+    "title": "Flat in Paracin",
+    "review": "4.8 (30)",
+    "description": "Studio apartment br3",
+    "beds": "2 queen bed",
+    "dates": "1-6 Feb",
+    "priceNight": "$49\u00A0",
+    "priceTotal": "$256\u00A0",
+    "imgUrl": "images/image-6.jpg",
+    "isSuperhost": false
+  },
+    {
+    "title": "Vila in Bliznak",
+    "review": "4.8 (30)",
+    "description": "Hamp House Homolje",
+    "beds": "3 king bed",
+    "dates": "1-6 Feb",
+    "priceNight": "$68\u00A08",
+    "priceTotal": "$344\u00A02",
+    "imgUrl": "images/image-7.jpg",
+    "isSuperhost": true
+  },
+    {
+    "title": "Flat in Paracin",
+    "review": "4.8 (30)",
+    "description": "Studio apartment br3",
+    "beds": "2 queen bed",
+    "dates": "1-6 Feb",
+    "priceNight": "$49\u00A0",
+    "priceTotal": "$256\u00A0",
+    "imgUrl": "images/image-8.jpg",
+    "isSuperhost": false
+  },  {
+    "title": "Flat in Paracin",
+    "review": "4.8 (30)",
+    "description": "Studio apartment br3",
+    "beds": "2 queen bed",
+    "dates": "1-6 Feb",
+    "priceNight": "$49\u00A0",
+    "priceTotal": "$256\u00A0",
+    "imgUrl": "images/image-9.jpg",
+    "isSuperhost": true
+  },  {
+    "title": "Cabin in Jagodina",
+    "review": "4.8 (30)",
+    "description": "Studio apartment br3",
+    "beds": "2 queen bed",
+    "dates": "1-6 Feb",
+    "priceNight": "$49\u00A0",
+    "priceTotal": "$256\u00A0",
+    "imgUrl": "images/image-10.jpg",
+    "isSuperhost": true
+  },
+    {
+    "title": "Apartment in Despotovac",
+    "review": "4.8 (30)",
+    "description": "Studio apartment br3",
+    "beds": "2 queen bed",
+    "dates": "1-6 Feb",
+    "priceNight": "$49\u00A0",
+    "priceTotal": "$256\u00A0",
+    "imgUrl": "images/image-11.jpg",
+    "isSuperhost": false
+  },
+    {
+    "title": "Apartment in Paracin",
+    "review": "4.8 (30)",
+    "description": "Studio apartment br3",
+    "beds": "2 queen bed",
+    "dates": "1-6 Feb",
+    "priceNight": "$49\u00A0",
+    "priceTotal": "$256\u00A0",
+    "imgUrl": "images/image-12.jpg",
+    "isSuperhost": true
+  },
+    {
+    "title": "Flat in Paracin",
+    "review": "4.8 (30)",
+    "description": "Studio apartment br3",
+    "beds": "2 queen bed",
+    "dates": "1-6 Feb",
+    "priceNight": "$49\u00A0",
+    "priceTotal": "$256\u00A0",
+    "imgUrl": "images/image-13.jpg",
+    "isSuperhost": false
+  },
+    {
+    "title": "Vila in Bliznak",
+    "review": "4.8 (30)",
+    "description": "Studio apartment br3",
+    "beds": "2 queen bed",
+    "dates": "1-6 Feb",
+    "priceNight": "$49\u00A0",
+    "priceTotal": "$256\u00A0",
+    "imgUrl": "images/image-14.jpg",
+    "isSuperhost": true
+  },
+    {
+    "title": "Flat in Paracin",
+    "review": "4.8 (30)",
+    "description": "Studio apartment br3",
+    "beds": "2 queen bed",
+    "dates": "1-6 Feb",
+    "priceNight": "$49\u00A0",
+    "priceTotal": "$256\u00A0",
+    "imgUrl": "images/image-15.jpg",
+    "isSuperhost": false
+  }, 
+   {
+    "title": "Flat in Paracin",
+    "review": "4.8 (30)",
+    "description": "Studio apartment br3",
+    "beds": "2 queen bed",
+    "dates": "1-6 Feb",
+    "priceNight": "$49\u00A0",
+    "priceTotal": "$256\u00A0",
+    "imgUrl": "images/image-12.jpg",
+    "isSuperhost": false
+  }, 
+   {
+    "title": "Flat in Paracin",
+    "review": "4.8 (30)",
+    "description": "Studio apartment br3",
+    "beds": "2 queen bed",
+    "dates": "1-6 Feb",
+    "priceNight": "$49\u00A0",
+    "priceTotal": "$256\u00A0",
+    "imgUrl": "images/image-16.jpg",
+    "isSuperhost": true
+  },
+    {
+    "title": "Flat in Paracin",
+    "review": "4.8 (30)",
+    "description": "Studio apartment br3",
+    "beds": "2 queen bed",
+    "dates": "1-6 Feb",
+    "priceNight": "$49\u00A0",
+    "priceTotal": "$256\u00A0",
+    "imgUrl": "images/image-11.jpg",
+    "isSuperhost": false
+  },
+    {
+    "title": "Flat in Paracin",
+    "review": "4.8 (30)",
+    "description": "Studio apartment br3",
+    "beds": "2 queen bed",
+    "dates": "1-6 Feb",
+    "priceNight": "$49\u00A0",
+    "priceTotal": "$256\u00A0",
+    "imgUrl": "images/image-17.jpg",
+    "isSuperhost": true
+  },
+    {
+    "title": "Flat in Paracin",
+    "review": "4.8 (30)",
+    "description": "Studio apartment br3",
+    "beds": "2 queen bed",
+    "dates": "1-6 Feb",
+    "priceNight": "$49\u00A0",
+    "priceTotal": "$256\u00A0",
+    "imgUrl": "images/image-18.jpg",
+    "isSuperhost": false
+  }
+]

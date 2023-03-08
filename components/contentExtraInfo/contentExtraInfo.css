@@ -1,0 +1,16 @@
+.card-description,
+.card-beds,
+.card-date {
+  color: var(--clr-primary);
+}
+
+.card-description {
+  grid-column: 1 / -1;
+  overflow: clip;
+  text-overflow: ellipsis;
+}
+
+.card-beds,
+.card-date {
+  grid-column: 1 / 1;
+}

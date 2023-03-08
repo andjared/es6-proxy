@@ -1,0 +1,50 @@
+.card-img {
+  height: 100%;
+  width: 100%;
+  display: grid;
+}
+
+.card-img img {
+  height: 100%;
+  width: 100%;
+  aspect-ratio: 1/1;
+  object-fit: cover;
+  border-radius: 12px;
+}
+
+.stacked > * {
+  grid-column: 1 / 2;
+  grid-row: 1 / 2;
+}
+
+.slide-indicators {
+  display: flex;
+  justify-content: space-around;
+  align-self: end;
+  justify-self: center;
+  margin-bottom: var(--space-md);
+}
+
+.indicator {
+  display: inline-block;
+  background-color: var(--clr-bg-light);
+  border-radius: 50%;
+  margin-inline: var(--space-xxs);
+  min-height: 6px;
+  height: 6px;
+  min-width: 6px;
+  width: 6px;
+  opacity: 1;
+}
+
+.slide-indicators :not(:first-child) {
+  opacity: 0.6;
+}
+
+.slide-indicators :nth-last-child(2) {
+  transform: scale(0.833);
+}
+
+.slide-indicators :nth-last-child(1) {
+  transform: scale(0.666);
+}
